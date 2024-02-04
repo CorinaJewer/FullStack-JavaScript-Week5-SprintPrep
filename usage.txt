@@ -3,6 +3,11 @@ myapp <command> <option>
 Usage:
 
 myapp --help        displays help
+
 myapp init          initialize the app
+myapp init --mk     create all the app folders
+myapp init --cat    create all the app files
+my app init --all   create all the folder and files
+
 myapp config        create or chnage the app configuration
 myapp token         manage the user tokens
